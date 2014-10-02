@@ -11,4 +11,5 @@ Go to iOS Simulator --> Hardware --> Device and select iPhone (Retina 4-inch 64 
 <br/>
 Tip: You can scale down the size to 50,75 or 100% by going to <br/>
 OS Simulator --> Window --> Scale.<br/>
+Adding content for local_branch (Need to be deleted later <br/>
 <br/>
